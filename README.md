@@ -1,3 +1,3 @@
-# TEAM GARUD PROJECT
+# Python Game
 
 **More Details coming soon**
